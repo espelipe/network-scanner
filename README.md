@@ -74,9 +74,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 ## 📄 Licença
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-## 📞 Contato
-
-[Seu Nome] - [seu-email@exemplo.com]
-
-Link do projeto: [https://github.com/seu-usuario/network-scanner](https://github.com/seu-usuario/network-scanner)
