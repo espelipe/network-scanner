@@ -170,7 +170,3 @@ Acesse o menu "Ferramentas" > "Configurações" para ajustar:
 - Certifique-se de ter realizado uma varredura primeiro
 - Verifique se o canvas de visualização está visível
 - Tente redimensionar a janela da aplicação
-
-## Suporte
-
-Se encontrar problemas ou tiver sugestões para melhorias, entre em contato através do e-mail: suporte@exemplo.com
