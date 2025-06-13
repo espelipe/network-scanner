@@ -25,7 +25,7 @@ Uma ferramenta avançada de escaneamento de rede com visualizações interativas
 
 1. Clone este repositório:
 ```bash
-git clone https://github.com/seu-usuario/network-scanner.git
+git clone https://github.com/espelipe/network-scanner.git
 cd network-scanner
 ```
 
